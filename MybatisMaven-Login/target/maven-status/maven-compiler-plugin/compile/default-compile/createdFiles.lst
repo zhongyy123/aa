@@ -1,7 +1,0 @@
-com\yr\login\UserDao.class
-com\yr\login\UserDaoImpl.class
-com\yr\login\BaseDao.class
-com\yr\login\UTFFilter.class
-com\yr\login\UserLoginServlet.class
-com\yr\login\User.class
-com\yr\login\UserRegisterServlet.class
